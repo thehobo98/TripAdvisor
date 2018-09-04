@@ -1,0 +1,4 @@
+1) Special instructions for the code are provided as comments in between the code.
+2) The out put will be in the form of Json Files and can be converted into CSV or Excel by uploading the files in the following website:- 
+
+https://www.aconvert.com/document/json-to-xls/
